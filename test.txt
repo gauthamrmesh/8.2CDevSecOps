@@ -1,1 +1,2 @@
 Testing email notifications - commit 1
+Testing email notifications - commit 2
